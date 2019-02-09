@@ -1,4 +1,4 @@
-# Database
+# :sparkles: Database
 
 > Definition:
 
@@ -35,4 +35,4 @@ Each table has a **primary key** column, and any table that needs to link to tha
 
 A database query extracts data from a database and formats it in a readable form. A query must be written in the language the database requires; usually, that language is **Structured Query Language (SQL)**.
 
-## Asala Matarya 
+### Asala Matarya :see_no_evil: :wink:
